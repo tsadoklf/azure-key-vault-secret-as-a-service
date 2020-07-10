@@ -1,2 +1,2 @@
-azure-keyvault
-azure-mgmt-keyvault==0.30.1
+azure-keyvault==4.1.0
+azure-mgmt-keyvault==2.2.0
